@@ -1,0 +1,9 @@
+.button1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+.button1 button{
+    height: 70px;
+    width:88px;
+}
